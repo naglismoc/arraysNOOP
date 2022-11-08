@@ -19,4 +19,4 @@ if(isset( $_GET['color'] )){
     <a href="./blackPage.php">pirmas</a>
     <a href="./blackPage.php?color=1">antras</a>
 </body>
-</html>
+</html> 
